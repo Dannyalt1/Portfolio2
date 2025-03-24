@@ -129,7 +129,7 @@ section:hover .section-title-gif, #projects:hover .spongebob-gif {
 }
 
 .project:nth-child(1):hover::after {
-    background-image: url('Midra.png');
+    background-image: url('https://static.wikia.nocookie.net/eldenring/images/9/9c/Shadow_of_the_Erdtree_promotional_screenshot_11.jpg/revision/latest?cb=20240221190128');
 }
 
 .project:nth-child(2):hover::after {
